@@ -4,7 +4,7 @@ setup(
     author='Alex',
     author_email='madest92@mail.com',
     name='teaxyzzz1',
-    version='0.0.5',
+    version='1.0.11',
     description='A simple package for https://app.tea.xyz/. Example teaxyzzz1',
     url='https://github.com/madest92/teaxyzzz1',
     project_urls={
